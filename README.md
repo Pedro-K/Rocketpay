@@ -3,6 +3,10 @@
 <p align="center">
 Evento exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologias WEB.
 </p>
+<p align="center">
+  <a href="https://rocketpay-rose.vercel.app/">Acesse o site clicando aqui</a>
+</p>
+
 
 <p align="center">
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
